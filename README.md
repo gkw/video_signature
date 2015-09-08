@@ -6,7 +6,9 @@ Schedule
 
 Purpose:
 
-Multimedia including video files on internet often are duplicated and video already spread out will be out of control.
+Multimedia including video files on the Internet are often duplicated and easily reproducable by capturing/encoding/transcoding.
+Regardless of DRM or any similar restriction, videos already spread out to the world will be out of control.
+
 Therefore, we need to identify the duplicate videos with different file format. 
 At this moment, there are no simple method is available to identify the same contents of MP4 and AVI, or any other format. 
 Thus, having a signature of video is quite useful to identify the "similarity" of any video.  Statistical approach will be done with hidden Malkov model, and machine learning techniques.
