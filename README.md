@@ -1,6 +1,7 @@
 # video_signature
 
 Schedule
+
   Sept 8, 2015 --- Project Started by Genki Kuroda <genkikuroda@gmail.com>
 
 Purpose:
@@ -13,7 +14,7 @@ Thus, having a signature of video is quite useful to identify the "similarity" o
 Property we can eliminate by this signature.
 
   Resolution (800 x 400, 1280....) * We don't care 4k or anything else.
-  Video File Format (MP4,AVI,WMV,) * it's not important as long as we can see some screens.
+  Frame rate, Video File Format (MP4,AVI,WMV,) * it's not important as long as we can see some screens.
 
 Limitation:
 
